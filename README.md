@@ -1,4 +1,4 @@
-# :crocodile: Control Structures, CMPSC 201 Fall 2020: LAB 05 Assignment
+# :crocodile: Type System in Go, CMPSC 201 Fall 2020: LAB 05 Assignment
 
 ## DUE: November 10th by 3:00pm
 
