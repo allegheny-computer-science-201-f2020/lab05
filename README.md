@@ -32,7 +32,7 @@
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this repository contains starter materials for lab 05 in [Computer Science 201 Fall 2020](https://cs.allegheny.edu/sites/jjumadinova/teaching/201). The lab05 assignment invites students to learn intricacies of the Go programming language's type system.
 
-Please watch a video introducing this lab assignment under the course's YouTube playlist: [Lab 04 Assignment Introduction](https://www.youtube.com/playlist?list=PLz9YRLfRGO9JpJfVknMPnK_jagA0mgxN0)
+Please watch a video introducing this lab assignment under the course's YouTube playlist: [Lab 05 Assignment Introduction](https://www.youtube.com/playlist?list=PLz9YRLfRGO9JpJfVknMPnK_jagA0mgxN0)
 
 ## Objectives
 
