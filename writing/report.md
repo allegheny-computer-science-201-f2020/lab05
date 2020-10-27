@@ -17,7 +17,7 @@ In `gotypes1.go` create a Go program that incorporates the following data types 
 - array,
 - maps (use `make` function).
 
-Your program should use the types listed above for a specific task or several tasks and it should output something demonstrating the use of these types. It should not closely resemble the examples provided in the tutorial or found online. The program does not need to be complicated or implement a specific application - in this part of the lab, you are just extending your knowledge of composite types in Go.
+Your program should use the types listed above for a specific task or several tasks and it should output something demonstrating the use of these types. It should not closely resemble the examples provided in the tutorial or found online. The program should not just randomly use the types above with no specific goal, again, it should accomplish a specific tasks. The program does not need to be complicated as in this part of the lab you are just extending your knowledge of composite types in Go, however it should contain *at least 60 lines of code*.
 
 TODO: Describe your implemented program and how you used the required components. Provide the output of your program using a code block.
 
@@ -31,7 +31,7 @@ In `gotypes2.go` create a Go program that incorporates the following (at least o
 - Image interface,
 - type switch.
 
-Your program should use the concepts listed above for a specific task or several tasks and it should output something demonstrating the use of these concepts. It should not closely resemble the examples provided in the tutorial or found online. The program does not need to be complicated or implement a specific application - in this part of the lab, you are just extending your knowledge of composite types in Go.
+Your program should use the concepts listed above for a specific task or several tasks and it should output something demonstrating the use of these concepts. It should not closely resemble the examples provided in the tutorial or found online. The program should not just randomly use the concepts above with no specific goal, again, it should accomplish a specific tasks. The program does not need to be complicated, however it should contain *at least 60 lines of code*.
 
 TODO: Describe your implemented program and how you used the required components. Provide the output of your program using a code block.
 
