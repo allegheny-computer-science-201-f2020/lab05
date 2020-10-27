@@ -16,7 +16,7 @@ indent: 4
 
 # --> check the source code for various characteristics
 src:
-    gotype1.go:
+    gotypes1.go:
             ConfirmFileExists
             CountSingleLineComments --language Java --count 4
             MatchFileFragment --fragment "&" --count 1
@@ -27,7 +27,7 @@ src:
             MatchFileFragment --fragment "main" --count 2
             MatchFileFragment --fragment "TODO" --count 0 --exact
             MatchFileFragment --fragment "Include your name" --count 0 --exact
-    gotype2.go:
+    gotypes2.go:
             ConfirmFileExists
             CountSingleLineComments --language Java --count 4
             #CountMultipleLineComments --language Java --count 2
